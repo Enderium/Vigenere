@@ -6,9 +6,9 @@ alles, was er/sie wissen muss. Üblicherweise sollte der Kommentar
 zumindest die folgenden Angaben umfassen:
 ------------------------------------------------------------------------
 
-PROJEKTBEZEICHNUNG:
-PROJEKTZWECK:
-VERSION oder DATUM:
-WIE IST DAS PROJEKT ZU STARTEN:
-AUTOR(EN):
-BENUTZERHINWEISE:
+PROJEKTBEZEICHNUNG: Vigenere
+PROJEKTZWECK: Abgabe in Info
+VERSION oder DATUM: 1.0 (Release)
+WIE IST DAS PROJEKT ZU STARTEN:  Mit BlueJ
+AUTOR(EN):  Gnomkrieger103
+BENUTZERHINWEISE: EXTREM GEFÄHRLICH!!!
